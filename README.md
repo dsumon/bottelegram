@@ -6,7 +6,7 @@ Source initiale: https://forum.virtualmin.com/t/how-to-receive-telegram-message-
 * Il suffit de lancer un dialogue avec bot_father
 * Puis créer un nouveau bot et bien noter le token/key
 * Ensuite on lance une conversation avec le bot
-* On se rend sur cett url (pour récupérer le chat Id) : https://api.telegram.org/bot<YourBOTToken>/getUpdates
+* On se rend sur cett url (pour récupérer le chat Id) : https://api.telegram.org/botYourBOTTokenXXX/getUpdates
 * Enusite on lui envoi un message de test
 * Et là on peut récupérer le chat ID (que l'on conserve)
 
